@@ -5,9 +5,9 @@
     "passes": 5,
     "pending": 0,
     "failures": 0,
-    "start": "2020-11-18T03:57:33.866Z",
-    "end": "2020-11-18T03:57:34.733Z",
-    "duration": 867
+    "start": "2020-11-18T14:57:40.395Z",
+    "end": "2020-11-18T14:57:41.314Z",
+    "duration": 919
   },
   "tests": [
     {
@@ -20,7 +20,7 @@
     {
       "title": "modifies the customerName variable",
       "fullTitle": "Fix the Scope upperCaseCustomerName() modifies the customerName variable",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -59,7 +59,7 @@
     {
       "title": "modifies the customerName variable",
       "fullTitle": "Fix the Scope upperCaseCustomerName() modifies the customerName variable",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
